@@ -1,5 +1,5 @@
 {
-	"name": "dotblue/nette-pdf",
+	"name": "ranasaani/nette-pdf",
 	"description": "Simple management of PDF generation in Nette app using mPDF",
 	"type": "library",
 	"keywords": [
